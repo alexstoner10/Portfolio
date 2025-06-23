@@ -1,4 +1,4 @@
-[
+export const Education = [
     {
         "school": "Iowa State University",
         "location": "Ames, Iowa",
@@ -6,4 +6,4 @@
         "GPA": 3.89,
         "date": "May 2027"
     }
-]
+];

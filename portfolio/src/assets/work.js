@@ -1,4 +1,4 @@
-[
+export const Work = [
     {
         "name": "Menards",
         "title": "Hardware Team Member",
