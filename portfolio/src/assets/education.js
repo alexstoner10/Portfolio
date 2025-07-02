@@ -1,5 +1,6 @@
-export const Education = [
+export const MyEducation = [
     {
+        offering_id: 1,
         "school": "Iowa State University",
         "location": "Ames, Iowa",
         "degree": "Bachelor of Science in Cyber Security Engineering",
